@@ -4,5 +4,6 @@ Diese läuft Stand 2020 als Java-EE-Applikation auf WildFly mit MariaDB und eine
 
 Ziel dieses Projektes ist die Modernisierung der Applikation als Microservice-Applikation mit neuer GUI und Deployment in der IBM Cloud. Gleichzeitig ist es eine Spielwiese für Microprofile, GraalVM, Quarkus, Docker, Kubernetes, u.a.
 
+Alexander Rühl
 alexander.ruehl@syrocon.de
 
